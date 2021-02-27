@@ -12,7 +12,7 @@
 
 ## 注意问题
 
-> **问题一：[项目Fork后定时任务没有执行](https://github.com/ZHDeveloper/JD_Sign_Action/issues/3)**
+> **问题一：[项目Fork后定时任务没有执行](https://github.com/ZHDeveloper/JD_Sign_Action/issues/3)触发**
 > 
 >>1、建议修改README.md提交，以触发定时任务。
 >>
